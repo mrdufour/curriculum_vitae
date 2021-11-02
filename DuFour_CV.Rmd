@@ -1,0 +1,436 @@
+---
+title: "CV"
+author: "Mark R. DuFour"
+email: mdufour@usgs.gov
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+  word_document: default
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+header-includes: \usepackage{etaremune}
+jobtitle: Fish Biologist
+keywords: R Markdown, academic CV, template
+linkcolor: blue
+fontfamily: mathpazo
+phone: (440) 813-2546
+address: Great Lakes Science Center - Lake Erie Biological Station
+github: mrdufour
+urlcolor: blue
+---
+
+\  
+
+**OBJECTIVE**\rule[3mm]{16.51cm}{0.4pt}
+Assist resource agencies in the management and restoration of native fishes, and eradication of non-native fishes through sound science.  
+
+\  
+
+**EDUCATION**\rule[3mm]{16.51cm}{0.4pt}
+
+**University of Toledo**, Department of Environmental Sciences - Lake Erie Center, Toledo, OH  
+PhD in Biology - Ecology Track, spring 2017  
+MS in Biology - Ecology Track, fall 2012   
+
+**Kent State University**, Department of Biological Sciences, Kent, OH  
+BS in Conservation, summer 2005  
+
+\  
+
+**RESEARCH EXPERIENCE**\rule[3mm]{16.51cm}{0.4pt}
+
+**Michigan State University** - Quantitative Fisheries Center  
+Post-doctoral Research Associate with Drs. Kelly Robinson and Mike Jones, 2017  
+*Lake Erie Grass Carp structured decision making exercise* 
+
+*
+Developed a multi-season multi-region matrix population model using a combination of Bayesian analysis and simulation modeling (**DuFour** et al. 2021a) to evaluate proposed management actions for Grass Carp (*Ctenopharyngadon idella*) within a structured decision making framework (Robinson et al. 2021). Communicated results and research direction to an international group of Great Lakes and Asian carp researchers, to facilitate an adaptive management approach to eradication goals (Herbst et al. 2021).
+
+
+*Lake Erie Yellow Perch management strategy evaluation*  
+
+*
+Incorporated existing statistical catch-at-age models into a management strategy evaluation to project the future performance of the Yellow Perch population and fisheries under a variety of management scenarios. Communicated research directions and results to the Lake Erie Percid Management Advisory Group (LEPMAG), an international group of stakeholders, culminating in the development of the first Lake Erie Yellow Perch (*Perca flavescens*) Fisheries Management Plan (Expected release, 2021). 
+
+**University of Toledo** -  Lake Erie Center  
+Graduate Research Assistant (PhD) with Drs. Christine Mayer and Song Qian, 2012 - 2016  
+*Hydroacoustic quantification of Lake Erie Walleye (Sander vitreus) distribution and abundance* 
+
+*
+PhD dissertation research coupled large-scale hydroacoustic and gill net surveys for Lake Erie Walleye. Using Bayesian hierarchical statistical methods and large-scale hydroacoustic sampling to 1) optimize data analysis methods (**DuFour** et al. 2017), 2) identify potential availability and avoidance biases in the hydroacoustic survey (**DuFour** et al. 2018), 3) quantify catchability in the existing gill net survey (**DuFour** et al. 2019), and 4) estimate walleye abundance using a probabilistic species apportionment method (**DuFour** et al. 2021b).  
+
+Graduate Research Assistant (MS) with Dr. Christine Mayer, 2010 - 2012  
+*Quantification of abundance and variability of larval Walleye (Sander vitreus) in the Maumee River*
+
+*
+MS thesis research used ichthyoplankton sampling and Bayesian state-space/hierarchical models to determine impact of power plant entrainment mortality on Maumee River larval Walleye production, and inform future sampling efforts for larval fishes (**DuFour** et al. 2014).  Statistical methods have contributed to three additional published papers (Rutherford et al. 2016, **DuFour** et al. 2015, Pritt et al. 2013).
+
+**The Ohio State University** - F.T. Stone Laboratory  
+Undergraduate Research Fellow with Drs. Joseph Conroy and Douglas Kane, summer 2005  
+*Algal loading: light-limited tributary algae and nutrient limited offshore algae*
+
+Fish ecology course with Drs. John Gannon and David Jude, summer 2005  
+*Prey selection and foraging in 1+ year Smallmouth Bass (Micropterus dolomieu) on Round Goby (Neogobius melanostromus)* 
+
+**Kent State University**  
+Undergraduate individual investigation with Dr. Mark Kershner, summer 2005  
+*A comparison of fish and crayfish assemblages in pool, riffle, and run habitats*
+
+\  
+
+**PROFESSIONAL EXPERIENCE**\rule[3mm]{16.51cm}{0.4pt} 
+
+**United States Geological Survey** - GLSC - Lake Erie Biological Station, Huron, OH  
+Fish Biologist supervised by Richard Kraus, 2021 -  present
+
+**Ohio DNR - Division of Wildlife** - Sandusky Fisheries Research Station, Sandusky, OH  
+Fisheries Biologist II supervised by Eric Weimer, 2018 - present
+
+*
+Manage western Lake Erie bottom trawl survey, monitoring age-0 *Percid* recruitment, and relative abundance of benthically oriented fish community. 
+
+*
+Manage western Lake Erie hydroacoustic survey designed to track the relative density of forage fish community.
+
+*
+Participate in inter-agency management of Lake Erie *Percid* fisheries as a member of both the Yellow Perch and Walleye Task Groups. Serve as a technical resource for the development, refinement, and interpretation of statistical catch-at-age models used for harvest management.
+
+**United States Geological Survey** - Great Lakes Science Center, Ann Arbor, MI  
+Student Contractor with Dr. Edward Roseman, 2013 - 2015  
+
+*
+Quantified larval fish (Walleye, Yellow Perch, and Lake Whitefish [*Coregonus clupeaformis*]) export patterns from Detroit River distributaries using long-term ichthyoplankton monitoring data and Bayesian state-space models (Roseman et al. *in press*).
+
+*
+Used portfolio theory to quantify the importance of spawning stock diversity in Lake Erie larval Walleye production, and guide conservation and restoration (**DuFour** et al. 2015).
+
+*
+Assisted in quantifying the relationship between passively (egg mat) and actively (egg pump) sampled Walleye egg deposition in Lake Erie's open-lake reef complex.
+
+**NYS-Department of Environmental Conservation**, New Paltz, NY  
+Contracted by New England Interstate Water Pollution Control Commission, Lowell, MA  
+Environmental Analyst I (Fisheries) supervised by Kathy Hattala, 2007 - 2010
+
+*
+Managed Hudson River juvenile Atlantic Sturgeon (*Acipenser oxyrhynchus*) gill net monitoring program. Developed a standardized relative abundance index using zero-inflated statistical models with NYS-DEC biologists (**DuFour** and Qian *in prep*).
+
+*
+Assisted in adult Atlantic Sturgeon monitoring (Mohler et al. 2012), acoustic telemetry studies to identify in-river spawning locations, and PSAT tagging to document oceanic migrations (Erickson et al. 2011).
+
+*
+Designed, implemented, and co-managed a citizen science based monitoring program for spawning river herring (Alewife; *Alosa pseudoharengus*, Blueback Herring; *Alosa aestivalis*) in Hudson River tributaries.
+
+* 
+Managed Hudson River Blue Crab (*Callinectes sapidus*) tagging to monitor distribution and abundance, and attain resource user iniformation. 
+
+*    
+Participated in NOAA - National Marine Fisheries Service and Atlantic States Marine Fisheries Commission (ASMFC) meetings regarding the stock status of Hudson River Shortnose Sturgeon (*Acipenser brevirostrum*), Atlantic Sturgeon, Striped Bass (*Morone saxatilis*), and river herring.
+
+**NYS - Department of Environmental Conservation**, New Paltz, NY  
+Fisheries Laborer supervised by Kathy Hattala, 2006 
+
+*
+Monitored Hudson River anadromous fish populations using small boats (<22 ft), bottom set and drift gillnets, beach and haul seines, electrofishing boats, external tags, and radio and acoustic telemetry.  
+
+\  
+
+**AWARDS AND FELLOWSHIPS**\rule[3mm]{16.51cm}{0.4pt}
+
+**INFORMS Decision Analysis Society Practice Award**, 2020  
+*A Decision Analytic Approach to Collaboratively Respond to Invasive Grass Carp in Lake Erie*   
+Robinson, K.F., **DuFour, M.R.**, Nathan, L., Fischer, J.L., Jones, M., Herbst, S.J., and Newcomb, T.
+
+**Outstanding Graduate Student Research Paper Award**, 2015 and 2016    
+University of Toledo - Department of Environmental Sciences
+
+**David M. Dolan Memorial Scholarship**, 2015   
+International Association of Great Lakes Research
+
+**Long-Term Great Lakes Fellowship**, 2011 - 2012    
+NOAA - GLERL/Cooperative Institute for Limnology and Ecosystem Research
+
+**Undergraduate Research Fellowship**, summer 2005  
+The Ohio State University - F.T. Stone Laboratory  
+
+\  
+
+**ADDITIONAL EXPERIENCE**\rule[3mm]{16.51cm}{0.4pt}
+
+**Mentoring & Supervising**  
+
+*    Kaitlen Lang - graduate student (committee member)  
+     University of Toledo, 2020 - present  
+     *Dead giveaway: Change in mortality rates signal Grass Carp control strategy effectiveness*  
+
+*    Touhue Yang - graduate student (committee member)  
+     University of Toledo, 2019 - present  
+     *Diets of age-0 walleye: A reflection of food web changes in western Lake Erie*  
+
+*    Seasonal staff  
+     Ohio DNR - Division of Wildlife, 2018 - present  
+     Various tasks related to fisheries data collection and processing
+     
+*    Peter Jenkins - Research Technician  
+     ODNR - Division of Wildlife, 2018 - 2019  
+     *Seasonal growth of Lake Erie Yellow Perch* (Jenkins and **DuFour**, *in prep*)
+
+*    Ryan Andrews - Research Technician  
+     University of Toledo, 2014 - 2015  
+     *Do Lake Erie Walleye conform to and ideal free distribution?*
+    
+*    Robert Mapes - Undergraduate Research and Mentoring Program  
+     University of Toledo, 2010 - 2013  
+     *Historical changes in the Maumee River larval fish community* (Mapes et al. 2014) 
+    
+*    Sean Maiorano - Ossining High School Science Research Program  
+     NYS-Department of Environmental Conservation, 2008 - 2010  
+     *Quantifying the relative abundance of juvenile Atlantic Sturgeon in the Hudson River*
+     
+*    Seasonal staff  
+     NYS-Department of Environmental Conservation, 2007 - 2010  
+     Various tasks related to fisheries data collection and processing  
+    
+**Teaching**
+
+*   Teaching Assistant - Environmental problems lab (EEES 1140)  
+    University of Toledo, spring 2016
+    
+*   Guest Lecturer - Down to Earth: Environmental Science (EEES 1130), 
+    *The scientific method*  
+    University of Toledo, fall 2013
+    
+*   Guest Lecturer - Biostatistics (EEES 6400), 
+    *Bayesian statistics*  
+    University of Toledo, fall 2011
+
+**Professional Service**
+
+*   River Research and Applications, 1 manuscript review, 2020
+*   North American Journal of Fisheries Management, 1 manuscript review, 2020
+*   Transactions of the American Fisheries Society, 1 manuscript review, 2020
+*   Fisheries Research, 1 manuscript review, 2020
+*   Journal of Great Lakes Research, 2 manuscript reviews, 2020
+*   North American Journal of Fisheries Management, 1 manuscript review, 2019
+*   Fisheries Research, 2 manuscript reviews, 2019
+*   Freshwater Sciences, 1 manuscript review, 2019
+*   Ecosphere, 1 manuscript reviews, 2019
+*   Transactions of the American Fisheries Society, 1 manuscript reviews, 2018
+*   Canadian Journal of Fisheries Science, 1 manuscript review, 2018
+*   Ohio Sea Grant College Program, 1 large grand review, 2015
+*   Journal of Great Lakes Research, 2 manuscript reviews, 2013 - 2015
+
+**Organization Memberships**
+
+*   American Fisheries Society, 2008 - 2016
+*   International Association of Great Lakes Research, 2010 - 2017
+*   World Sturgeon Conservation Society, 2008 - 2009
+
+**Software**  
+
+*  ADMB, SAS, Program R, Rstudio, Rmarkdown (this CV), OpenBUGS, JAGS, Stan, ArcMap, Microsoft office suite, Echoview (base, schools detection, virtual echogram, fish tracking, COM scripting), BioSonics-Visual Acquisition, LaTeX.
+
+\  
+
+**GRANTS AND FUNDING**\rule[3mm]{16.51cm}{0.4pt}  
+
+\begin{etaremune}
+
+\item Ludsin, S.A., Winslow, C.J., Marschall, E.A., DeVanna-Fussell, K.M., Craig, J.K., \textbf{DuFour, M.R.}, Robinson, K.F., Mason, D.M., Roth, B.M., Zhang, H., and Julian, D.A. \textit{Undergraduate Population and Ecosystem Dynamics Workshop}. National Oceanic and Atmospheric Administration - Sea Grant, \$140,000, Summer 2021.  
+
+\item Robinson, K., Herbst, S., Boase, J., Francis, J., \textbf{DuFour, M.}, Brenden, T., Kocovsky, P., Scribner, K., and Robinson, J. \textit{Implementing and evaluating grass carp control actions in Lake Erie}. Michigan Invasive Species Grant Program, \$250,000, April 2018 - March 2020.  
+
+\item Roseman, E.F., Olds, C., Harrington, H., Calappi, T., Suedel, B., Wilkens, J., Moerke, A., Chong, S., Godby, N., \textbf{DuFour, M.R.} \textit{Assessment of larval fish production at the St. Marys River rapids related to changes in compensating gates operation}. Great Lakes Restoration Initiative, \$760,000, 2018 - 2020.
+
+\end{etaremune}
+
+\  
+
+**SCIENTIFIC PUBLICATIONS**\rule[3mm]{16.51cm}{0.4pt}
+
+\begin{etaremune}
+
+\item Sinclair, J.S., Fraker, M.E., Hood, J.M., Frank, K.T., \textbf{DuFour, M.R.}, Gorman, A.M., and Ludsin, S.A. \textit{Functional traits reveal the dominant drivers of long-term community change across a North American Great Lake}. Global Change Biology, 00: 1-20. https://doi.org/10.1111.gcb.15902   
+
+\item \textbf{DuFour, M.R.}, Kocovsky, P.M., Deller, J., Simonin, P.W., and Rudstam, L.G. \textit{Hydroacoustic survey standardization: Inter-vessel differences in fish densities and potential effects of vessel avoidance}. Fisheries Research, 239: 105948.
+
+\item Roseman, E.F., \textbf{DuFour, M.R.}, Pritt, J.J., Fischer, J.L., DeBruyne, R.L., and Bennion, D. 2021. \textit{Export of pelagic fish larvae from a large Great Lakes connecting channel}. Advances in Limnology, \textit{in press}. 
+
+\item \textbf{DuFour, M.R.}, Qian, S.S., Mayer, C.M., and Vandergoot, C.S. 2021b. \textit{Embracing uncertainty to reduce bias in hydroacoustic species apportionment}. Fisheries Research, 233: 105750.  
+\item Herbst, S.J., Nathan, L.R., Newcomb, T.J., \textbf{DuFour, M.R.}, Tyson, J., Weimer, E., Buszkiewicz, J., and Dettmers, J.M. 2021. \textit{An adaptive management approach for Implementing multi-jurisdictional response to Grass Carp in Lake Erie}. Journal of Great Lakes Research, 47: 96-107.  
+
+\item Robinson, K.F., \textbf{DuFour, M.R.}, Jones, M.L., Herbst, S.J., Newcomb, T.J., Boase, J., Brenden, T., Chapman, D., Dettmers, J., Francis, J., Hartman, T., Kocovsky, P., Locke, B., Mayer, C., and Tyson, J. 2021. \textit{Using decision analysis to collaboratively respond to invasive species threats: A case study of Lake Erie Grass Carp (Ctenopharyngodon idella)}. Journal of Great Lakes Research, 47, 108-119. 
+
+\item \textbf{DuFour, M.R.}, Robinson, K.F., Herbst, S.J., and Jones, M.J. 2021a. \textit{A matrix population model to aid agency response to grass carp (Ctenopharyngodon idella) in the Great Lakes Basin - Lake Erie}. Journal of Great Lakes Research, 47: 69-82.
+
+\item Slagle, Z.J., Faust, M.D., Keretz, K.R., and \textbf{DuFour, M.R.}. 2019. \textit{Post-tournament dispersal of Smallmouth Bass in western Lake Erie}. Journal of Great Lakes Research, 46: 198-206. 
+
+\item \textbf{DuFour, M.R.}, Qian, S.S., Mayer, C.M., Vandergoot, C.S. 2019. \textit{Evaluating catchability in a large-scale gillnet survey using hydroacoustics: Making the case for coupled surveys}. Fisheries Research, 211: 309-318.  
+
+\item \textbf{DuFour, M.R.}, Mayer, C.M., Qian, S.S., Vandergoot, C.S., Kraus, R.T., Kocovsky, P.K., and Warner, D.M. 2018. \textit{Inferred fish behavior its implications for hydroacoustic surveys in nearshore habitats}. Fisheries Research, 199: 63-75.  
+ 
+\item \textbf{DuFour, M.R.}, Mayer, C.M., Kocovsky, P.M., Qian, S.S., Warner, D.M., Kraus, R.T., and Vandergoot, C.s. 2017. \textit{Sparse targets in hydroacoustic surveys: Balancing quantity and quality of in situ target strength data}. Fisheries Research, 188: 173-182. 
+
+\item Rutherford, E.S., Allison, J., Ruetz III, C.R., Elliot, J.R., Nohner, J.K., \textbf{DuFour, M.R.}, O'Neal, R.P, Jude, D.J., and Hensler, S.R. 2016. \textit{Density and survival of Walleye (Sander vitreus) eggs and larvae in a Great Lakes tributary}. Transactions of the American Fisheries Society, 145: 563-577. 
+
+\item \textbf{DuFour M.R.}, May, C.J., Roseman, E.F., Ludsin, S.A., Vandergoot, C.S., Pritt, J.J., Fraker, M.E., Davis, J.J., Tyson, J.T., Miner, J.G., Marschall, E.A., and Mayer, C.M. 2015. \textit{Portfolio theory as a management tool to guide conservation and restoration of multi-stock fish population}. Ecosphere, 6(12): Art. 296. 
+
+\item Qian, S.S., Chaffin, J.D., \textbf{DuFour, M.R.}, Sherman, J.J., Golnick, P.C., Collier, C.D., Nummer, S.A., and Margida, M.G. 2015. \textit{Quantifying and reducing uncertainty in estimated microcystin concentrations from the ELISA method}. Environmental Science and Technology, 49(24): 14221-14229. 
+
+\item Fraker, M.E., Anderson, E.J., May, C.J., Chen, K.Y, Davis, J.J., DeVanna, K.M., \textbf{DuFour, M.R.}, Marschall, E.A., Mayer, C.M., Miner, J.G., Pangle, K.L., Pritt, J.J., Roseman, E.F., Tyson, J.T., Zhao, Y. and Ludsin, S.A. 2014. \textit{Stock-specific advection of larval Walleye (Sander vitreus) in western Lake Erie: implications for larval growth, mixing, and stock discrimination}. Journal of Great Lakes Research, 41(3): 830-845. 
+
+\item \textbf{DuFour, M.R.}, Pritt, J.J., Mayer, C.M., Stow, C.A., and Qian, S.S. 2014. 
+\textit{Bayesian hierarchical modeling of larval Walleye (Sander vitreus) abundance and mortality: accounting for spatial and temporal variability on a large river}. Journal of Great Lakes Research, 40(Supplement 3): 29-40. 
+
+\item Mapes, R.L., \textbf{DuFour, M.R.}, Pritt, J.J., and Mayer, C.M. 2014. \textit{Larval fish assemblage recovery: A reflection of environmental change in a large degraded river}. Restoration Ecology, 23(1): 85-93. 
+
+\item Pritt, J.J., \textbf{DuFour, M.R.}, Mayer, C.M., Roseman, E.F., and DeBruyne, R.L. 2014. \textit{Sampling little fish in big rivers: Larval fish detection probabilities in two Lake Erie tributaries and implications for abundance indices and richness estimates}. Transactions of the American Fisheries Society, 143(4): 1011-1027. 
+
+\item Pritt, J.J., \textbf{DuFour, M.R.}, Mayer, C.M., Kocovsky, P.M., Tyson, J.T., Weimer, E.J., and Vandergoot, C.S. 2013. \textit{Including independent estimates and uncertainty to quantify total abundance of fish migrating in a large river system: Walleye (Sander vitreus) in the Maumee River, Ohio}. Canadian Journal of Fisheries and Aquatic Resources, 70(5): 803-814. 
+
+\item Mohler, J.W., Sweka, J.A., Kahnle, A., Hattala, K., Higgs, A., \textbf{DuFour, M.}, Breece, M. W., and Fox, D.A. 2012. \textit{Growth and survival of hatchery-produced Atlantic sturgeon released as young-of-year into the Hudson River, New York}. Journal of Fish and Wildlife Management, 3(1): 23-32. 
+
+\item Erickson, D.L., Kahnle, A., Millard, M.J., Mora, E.A., Bryja, M., Higgs, A., Mohler, J., \textbf{DuFour, M.}, Kenney, G., Sweka, J. and Pikitch, E.K. 2011. \textit{Use of pop-up satellite archival tags to identify oceanic-migratory patterns for adult Atlantic sturgeon, Acipenser oxyrinchus oxyrinchus Mitchell, 1815}. Journal of Applied Ichthyology, 27(2): 356-365. 
+
+\end{etaremune}
+
+**Manuscripts in review/revision**
+
+\begin{etaremune}
+
+\item Bade, A.P., Dippold, D.A., Schmidt, B.A., \textbf{DuFour, M.R.}, Hartman, T.J., and Ludsin, S.A. \textit{Angler choices that help catch lots of big fish}. Fisheries, \textit{in revision}.
+
+\item Fischer, J.L., Nathan, L., Robinson, K.F., Buszkiewicz, J., Colm, J., Drake, A., \textbf{DuFour, M.R.}, Kocovsky, P., Marson, D., Smyth, E., and Young, R. \textit{Using Surrogate Species to Inform Response Methods for Invasive Grass Carp in the Great Lakes}. North American Journal of Fisheries Management, \textit{in revision}.
+
+
+\end{etaremune}
+
+**Manuscripts in prep**
+
+\begin{etaremune}
+
+\item \textbf{DuFour, M.R.} and Qian, S.S. \textit{Evaluating populations trends at low abundance: Atlantic sturgeon and zero-inflated models}. \textit{in prep}.
+
+\item Robinson, K.R., \textbf{DuFour, M.R.}, Fischer, J.L., Herbst, S.J., Jones, M.L., Lucas, N.,  and Newcomb, T.J. \textit{Lessons learned in applying decision analysis to natural resources management for high stakes issues surrounded by uncertainty}. Decision Analysis, \textit{in prep}.
+
+\item Ross, J.E., Roseman, E.F., \textbf{DuFour, M.R.}, DeBruyne, R.L., Kraus, R.T., Pritt, J.J., Fisher, J.R.,  Weimer, E.J., Mayer, C.M., and Tucker, T.R. \textit{Spatial and temporal patterns of age-0 fishes in western Lake Erie}. \textit{in prep}.
+
+\item Dillon, R.A., Conroy, J.D., Kocovsky, P.K., \textbf{DuFour, M.R.}, and Ludsin, S.A. \textit{Effects of pulse duration on common hydroacoustic measures}, \textit{in prep}.
+
+\item Jenkins, P.J., and \textbf{DuFour, M.R.}. \textit{Quantifying seasonal growth of Lake Erie Yellow Perch: A hierarchical perspective}. \textit{in prep}.
+
+\item Bade, A.P., Faust, M.F., Vandergoot, C.S., \textbf{DuFour, M.R.}, Marschall, E., Ludsin, S.A. \textit{Spawning Site Selection in Lake Erie Walleye: Implications for Management}. \textit{in prep}.
+
+\end{etaremune}
+
+**Books in prep**
+\begin{etaremune}
+
+\item Qian, S.S., \textbf{DuFour, M.R.}, and Alameddine, I. \textit{Bayesian Applications in Environmental and Ecological Studies with R and Stan}. CRC Press - Taylor \& Francis Group, \textit{in prep}.
+
+\end{etaremune}
+
+\  
+
+**CONFERENCE PRESENTATIONS (presenter only)**\rule[3mm]{16.51cm}{0.4pt}  
+
+**Invited**
+
+**DuFour, M.R.**, Roseman, E.F., Pritt, J.P., Fisher, J.L., DeBryune, R.L., and Bennion, D.H. May 2017. *Estimating Detroit River larval Walleye export with a Bayesian hierarchical state-space models.* 60th International Association of Great Lakes Research Conference, Detroit, MI.
+
+**DuFour, M.R.**, Qian, S.S., Mayer, C.M., and Vandergoot, C.S. February 2015. *Bayesian shrinkage estimators in fisheries: Improving population estimates by moving toward the middle.* 75th Midwest Fish and Wildlife Conference, Indianapolis, IN.  
+
+**DuFour, M.R.**, Pritt, J.J., Mayer, C.M., May, C.J., Ludsin, S.A., Marschall, E.A., Fraker, M.E., Roseman, E.F., Vandergoot, C.S., Tyson, J.T., Davis, J.J., and Miner, J.G. August 2014. *Diversity in a multi-stock system: Temporal and spatial portfolio effects in Lake Erie Walleye production*. 144th American Fisheries Society Conference, Quebec City, QC.  
+
+**DuFour, M.R.**, Pritt, J.J., Mayer, C.M., Stow, C.A., Tyson, J.T., Weimer, E.J., and Kocovsky, P.M. March 2012. *Quantification of abundance and mortality of Maumee River larval Walleye: Accounting for variability and uncertainty*. USGS Great Lakes Science Center Brown Bag Seminar, Ann Arbor, MI.  
+
+**Contributed**
+
+**DuFour, M.R.**, and Jenkins, P. December 2020. *Identifying trends in early growth of Lake Erie Yellow Perch and adapting assessment protocols*. ODNR Division of Wildlife/The Ohio State University Research Review, Columbus, OH.
+
+**DuFour, M.R.**, Herbst, S.J., Popoff, N.D., Newcomb, T.J., Francis, J., Carter, R., Navarro, J., Jones, M.L., Robinson, K.F., Brenden, T.O., Mahon, A., Pangle, K., and Tyson, J. October 2017. *Multi-jurisdictional collaborations and structured approach for Grass Carp control in Lake Erie.* International Conference on Aquatic Invasive Species, Fort Lauderdale, FL.
+
+**DuFour, M.R.**, Qian, S.S., Mayer, C.M., and Vandergoot, C.S. August 2016. *Accounting for sampling uncertainty in hydroacoustic species apportionment*. American Fisheries Society Conference, Kansas City, MO.
+
+**DuFour, M.R.**, Mayer, C.M., Qian, S.S., Kocovsky, P.M., Kraus, R.K., Vandergoot, C.S., and Warner, D.M. June 2016. *Hydroacoustic abundance estimates and Walleye behavior: A tale of two ships*. 59th International Association of Great Lakes Research Conference, Guelph, ON.
+
+**DuFour, M.R.**, Mayer, C.M., Qian, S.S., Kocovsky, P.M., Kraus, R.K., Vandergoot, C.S., and Warner, D.M. January 2016. *Hydroacoustic abundance estimates and Walleye behavior: A tale of two ships*. ODNR Division of Wildlife/The Ohio State University Research Review, Columbus, OH.  
+
+**DuFour, M.R.**, Mayer, C.M., Qian, S.S., Warner, D.M., Kocovsky, P.M. and Vandergoot, C.S. February 2015 (poster). *Echo-counting in shallow water: Balancing quantity and quality of in situ TS data*. 75th Midwest Fish and Wildlife Conference, Indianapolis, IN. 
+
+**DuFour, M.R.**, Mayer, C.M., Qian, S.S. and Vandergoot, C.S. January 2015. *Accounting for uncertainty in acoustic estimates of Walleye abundance*. ODNR Division of Wildlife/The Ohio State University Research Review, Columbus, OH.
+
+**DuFour, M. R.**, Mayer, C. M., Qian, S. S., Vandergoot, C. S., Tyson, J. T., Kocovsky, P. K., Kraus, R. T., and D. M. Warner. May 2014. *Coupling hydroacoustic and gill net surveys: getting by with a little help from my Bayesian friends*. 57th International Association of Great Lakes Research Conference, Hamilton, ON.
+
+**DuFour, M.R.**, May, C.J., Pritt, J.J., Roseman, E.F., Mayer, C.M. (presenter), Ludsin, S.A., Marschall, E.A., Fraker, M.E., Davis, J.J., Miner, J.G., Qian S.S., Vandergoot, C.S., and Tyson, J.T. May 2014. *Diversity in a multi-stock system: Temporal and spatial portfolio effects in Lake Erie Walleye production*. 57th International Association of Great Lakes Research Conference, Hamilton, ON.
+
+**DuFour, M.R.**, Pritt, J.J., Mayer, C.M., May, C., Ludsin, S.A., Marschall, E.A., Fraker, M.E., Roseman, E.F., Vandergoot, C.S., Tyson, J.T., Davis, J.J., and Miner, J.G. January 2014. *Diversity in a multi-stock system: Temporal and spatial portfolio effects in Lake Erie Walleye production*. ODNR Division of Wildlife/The Ohio State University Research Review, Columbus, OH.
+
+**DuFour, M.R.**, Mayer, C.M, Qian, S.S., Vandergoot, C.S., Tyson, J.T., Kocovsky, P.K., Kraus, R.T., and Warner, D.M. January 2014. *Efficacy of coupling hydroacoustic and gill net sampling to assess distribution and abundance of Lake Erie Walleye*. ODNR Division of Wildlife /The Ohio State University Research Review, Columbus, OH.
+
+**DuFour, M.R.**, Pritt, J.J., Mayer, C.M., Stow, C., Tyson, J., Weimer, E., and Kocovsky, P.M. August 2012. *Quantification of abundance and mortality of Maumee River larval Walleye (Sander vitreus)*. 142nd American Fisheries Society Conference, St. Paul, MN.
+
+**DuFour, M.R.**, Pritt, J.J., Mayer, C.M., Stow, C., Tyson, J., Weimer, E., and Kocovsky, P. January 2012. *Maumee River larval Walleye dynamics: Production, mortality and export*. ODNR Division of Wildlife /The Ohio State University Research Review, Columbus, OH.
+
+**DuFour, M.R.**, Pritt, J., Mayer, C.M., Stow, C., Tyson, J., Weimer, E., and Kocovsky, P. May 2011 (poster). *Estimating larval Walleye export from the Maumee River: Tracking variability through space and time*. International Association of Great Lakes Research Annual Meeting, Duluth, MN.
+
+**DuFour, M.R.**, Pritt, J., Mayer, C.M., Stow, C., Tyson, J., Weimer, E., and Kocovsky, P. January 2011. *Estimating larval Walleye export from the Maumee River: Tracking variability through space and time*. ODNR Division of Wildlife /The Ohio State University Research Review, Columbus, OH.
+
+**DuFour, M.R.**, Hattala, K.A., and Kahnle, A.W. December 2009. *Habitat use: shortnose sturgeon, juvenile Atlantic sturgeon, and blue crabs*. Fish Habitat meeting, Norrie Point Environmental Center, Staatsburg, NY.
+
+**DuFour, M.R.**, Hattala, K.A., and Kahnle, A.W. November 2007. *Juvenile Atlantic Sturgeon abundance sampling*. Atlantic Sturgeon Sampling Protocol Workshop, Atlantic States Marine Fisheries Commission. Annapolis, MD.
+
+**DuFour, M.R.**, Hattala, K.A., and Kahnle, A.W. March 2007. *River Herring runs in New York State* 63rd Annual Northeast Fish and Wildlife Conference. Groton/Mystic, CT.
+
+**Public Outreach**  
+
+**DuFour, M.R.** January 2020 - 2021. *Ohio's Lake Erie fisheries outlook, updates, and research*. Cleveland Boat and Fishing Exposition, Cleveland, OH. 
+
+**DuFour, M.R.** February 2019. *Lake Erie Walleye: Harvest and recruitment trends, and exploratory research*. Monthly meeting, Mid-Ohio Walleye Club. Mansfield, OH.
+
+**DuFour, M.R.**, Pritt, J.J., Mayer, C.M., Stow, C.A., Tyson, J.T., Weimer, E.J., and Kocovsky, P.M. April 2011. *Maumee Bay ecosystem function: effects of the Bay Shore power plant and other environmental variables*. Lake Erie Waterkeeper Conference, North Cape Yacht Club, La Salle, MI. 
+
+**DuFour, M.R.**, Adams, R.D., Kindred, J., Bloomfield, A., and Abuza, L. March 2008 - 2010. *Volunteer river herring monitoring program (presentations and trainings)*. Hudson River Valley, NY.
+
+**DuFour, M.R.** November 2009. *Life history and management of diadromous fishes of the Hudson River Estuary*. Monthly meeting, New Baltimore Conservancy, New Baltimore, NY. 
+
+**DuFour, M.R.** 2009. *Invasion of the Hudson River: Chinese mitten crab*. Monthly meeting, Trout Unlimited-New York Region 3 - Catskill Mountain Chapter #028. Kingston, NY.
+
+<!-- \   -->
+
+<!-- **REFERENCES**\rule[3mm]{16.51cm}{0.4pt} -->
+
+<!-- **Travis Hartman**   -->
+<!-- Lake Erie Committee, Chair   -->
+<!-- Lake Erie Fisheries Program Administrator   -->
+<!-- Ohio DNR - Division of Wildlife   -->
+<!-- Ph: (419) 871-6142 (office)   -->
+<!-- Ph: (419) 967-0189 (cell)   -->
+<!-- Email: travis.hartman@dnr.ohio.gov    -->
+
+<!-- **Dr. Michael L. Jones**   -->
+<!-- Peter A Larkin Professor of Quantitative Fisheries (Emeritus)   -->
+<!-- Co-Director, Quantitative Fisheries Center   -->
+<!-- Michigan State University   -->
+<!-- Ph: (517) 899-2546 (cell)   -->
+<!-- Email: jonesm30@msu.edu   -->
+
+<!-- **Dr. Kelly F. Robinson**   -->
+<!-- Assistant Professor   -->
+<!-- Michigan State University   -->
+<!-- Ph: (843) 906-0513 (cell)   -->
+<!-- Email: kfrobins@msu.edu   -->
+
+<!-- **Dr. Song S. Qian**   -->
+<!-- Associate Professor   -->
+<!-- University of Toledo   -->
+<!-- Ph: (419) 530-4230 (office)   -->
+<!-- Email: song.qian@utoledo.edu   -->
+
+<!-- **Dr. Christine M. Mayer**   -->
+<!-- Professor of Ecology   -->
+<!-- University of Toledo   -->
+<!-- Ph: (419) 530-8377 (office)   -->
+<!-- Ph: (419) 205-5272 (cell)   -->
+<!-- Email: christine.mayer@utoledo.edu   -->
