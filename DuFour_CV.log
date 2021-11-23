@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.19)  2 NOV 2021 09:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.19)  9 NOV 2021 11:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -589,7 +589,7 @@ Here is how much of TeX's memory you used:
  28164 multiletter control sequences out of 15000+600000
  428876 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,12n,66p,1198b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,66p,1198b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Users/mdufour/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.
 enc} <c:/Users/mdufour/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknapp
 en/ec/ectt1095.600pk><c:/Users/mdufour/AppData/Roaming/TinyTeX/texmf-dist/fonts
@@ -598,7 +598,7 @@ ist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/mdufour/AppData/Roaming/TinyT
 eX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/mdufour/AppData/Roa
 ming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/mdufour/A
 ppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on DuFour_CV.pdf (10 pages, 121958 bytes).
+Output written on DuFour_CV.pdf (10 pages, 122229 bytes).
 PDF statistics:
  107 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
