@@ -11,7 +11,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 header-includes: \usepackage{etaremune}
-jobtitle: Fish Biologist
+jobtitle: Fisheries Biologist
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontfamily: mathpazo
