@@ -194,8 +194,8 @@ The Ohio State University - F.T. Stone Laboratory
      ODNR - Division of Wildlife, 2018 - 2019  
      *Seasonal growth of Lake Erie Yellow Perch* (Jenkins and **DuFour**, *in prep*)
      
-*    Shea Volkel – graduate student (mentor)
-     Michigan State University, 2017. 
+*    Shea Volkel – graduate student (mentor)  
+     Michigan State University, 2017.  
      *Yellow Perch pre-recruit survey analysis*
 
 *    Ryan Andrews - Research Technician  
@@ -330,7 +330,9 @@ The Ohio State University - F.T. Stone Laboratory
 
 \begin{etaremune}
 
-\item \textbf{DuFour, M.R.} and Qian, S.S. \textit{Evaluating populations trends at low abundance: Atlantic sturgeon and zero-inflated models}. \textit{in revision}.
+\item \textbf{DuFour, M.R.} and Qian, S.S. \textit{Evaluating population trends at low abundance in a dynamic estuarine environment: juvenile Atlantic sturgeon}. Fisheries Management and Ecology, \textit{in review}.
+
+\item Touhue, Y., Mayer, C.M., DeBruyne, R.L., Roseman, R.F., \textbf{DuFour, M.R.}, and Weimer, E.J. \textit{Food web changes reflected in age-0 piscivore diets and growth}. Ecology of Freshwater Fish, \textit{in review}.
 
 \end{etaremune}
 
