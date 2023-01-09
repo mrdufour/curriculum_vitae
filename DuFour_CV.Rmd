@@ -276,7 +276,7 @@ The Ohio State University - F.T. Stone Laboratory
 
 \item Qian, S.S., \textbf{DuFour, M.R.}, and Alameddine, I. 2022. \textit{Bayesian Applications in Environmental and Ecological Studies with R and Stan}. CRC Press - Taylor \& Francis Group, Boca Raton, FL. ISBN 9781138497399.
 
-\item \textbf{DuFour, M.R.}, Kerentz, K.R., and Oldham, R.C. 2022. \textit{Hydroacoustic data from central Lake Erie, 2021: U.S. Geological Survey Data Release}, https://doi.org/10.5066/P9S2NFTP
+\item \textbf{DuFour, M.R.}, Keretz, K.R., and Oldham, R.C. 2022. \textit{Hydroacoustic data from central Lake Erie, 2021: U.S. Geological Survey Data Release}, https://doi.org/10.5066/P9S2NFTP
 
 \item Fischer, J.L., Nathan, L.R., Buszkiewicz, J., Colm, J., Drake, D.A.R., \textbf{DuFour, M.R.}, Kocovsky, P.M., Marson, D., Smyth, E.R.B., Young, R., and Robinson, K.R. 2022. \textit{Using surrogate taxa to inform response methods for invasive grass carp in the Laurentian Great Lakes}. North American Journal of Fisheries Management, DOI: https://doi.org/10.1002/nafm.10724.
 
@@ -333,7 +333,9 @@ The Ohio State University - F.T. Stone Laboratory
 
 \item \textbf{DuFour, M.R.} and Qian, S.S. \textit{Evaluating population trends at low abundance in a dynamic estuarine environment: juvenile Atlantic sturgeon}. Fisheries Management and Ecology, \textit{in review}.
 
-\item Touhue, Y., Mayer, C.M., DeBruyne, R.L., Roseman, R.F., \textbf{DuFour, M.R.}, and Weimer, E.J. \textit{Food web changes reflected in age-0 piscivore diets and growth}. Ecology of Freshwater Fish, \textit{in review}.
+\item Yang, T., Mayer, C.M., DeBruyne, R.L., Roseman, R.F., \textbf{DuFour, M.R.}, and Weimer, E.J. \textit{Food web changes reflected in age-0 piscivore diets and growth}. Ecology of Freshwater Fish, \textit{in review}.
+
+\item Evans, T.M., Rudstam, L.G., Sethi, S.A., Warner, D.M., Hanson, S.D., Turschak, B., Farha, S.A., Barnard, A.R., Yule, D.L., \textbf{DuFour, M.R.}, O'Brien, T.P., McDonnell, K.N., Watkins, J.M., Koproski, S.R., Wells, S.E., Dieter, P.M., Kocher, E., Roberts, J.J., Senczyszyn, S.A., and Esselman, P.C. \textit{Fish avoidance of ships during acoustic surveys tested with quiet uncrewed surface vessels in the Great Lakes}. Fisheries Research, \textit{in review}.  
 
 \end{etaremune}
 
