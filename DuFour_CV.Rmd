@@ -351,6 +351,8 @@ The Ohio State University - F.T. Stone Laboratory
 
 \item Ross, J.E., Roseman, E.F., \textbf{DuFour, M.R.}, DeBruyne, R.L., Kraus, R.T., Pritt, J.J., Fisher, J.R.,  Weimer, E.J., Mayer, C.M., and Tucker, T.R. \textit{Spatial and temporal patterns of age-0 fishes in western Lake Erie}. \textit{in prep}.
 
+\item VanDrunen, S.F.K., \textbf{DuFour, M.R.}, Roseman, E.F., DeBruyne, R.L., Moerke, A.H., Harrington, H.F., Calappi, T.J., McDonnell, K.A., and Gerig, B.S. \textit{Larval fish export in response to compensating gate altered discharge}. \textit{in prep}.
+
 \end{etaremune}
 
 
@@ -375,7 +377,7 @@ Peterson, L.K., Jones, M.L., Catalano, M.J., Berger, A., and **DuFour, M.** Augu
 
 **Contributed**  
 
-Slagle, Z., Hartman, T., and DuFour, M. December 2022. *Opening Lake Erie’s spring bass season: standardized assessments lead to increased opportunities for anglers.* ODNR Division of Wildlife/The Ohio State University Research Review, Columbus, OH.
+Slagle, Z., Hartman, T., and **DuFour, M.** December 2022. *Opening Lake Erie’s spring bass season: standardized assessments lead to increased opportunities for anglers.* ODNR Division of Wildlife/The Ohio State University Research Review, Columbus, OH.
 
 **DuFour, M.**, Cook, A., Deller, J., Holden, J., Roberts, J., Schmitt, J., and Slagle, Z. August 2022. *Aligning hydroacoustic survey goals, logistics, and analyses: Lake Erie pelagic prey fishes.* 152nd Annual Meeting of the American Fisheries Society, Spokane, WA.
 
