@@ -11,12 +11,12 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 header-includes: \usepackage{etaremune}
-jobtitle: Fisheries Biologist
+jobtitle: Research Fisheries Biologist
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontfamily: mathpazo
 phone: (440) 813-2546
-address: Great Lakes Science Center - Lake Erie Biological Station
+address: USGS Great Lakes Science Center - Lake Erie Biological Station
 github: mrdufour
 urlcolor: blue
 ---
@@ -376,6 +376,8 @@ Peterson, L.K., Jones, M.L., Catalano, M.J., Berger, A., and **DuFour, M.** Augu
 
 
 **Contributed**  
+
+Evans, T.M., Rudstam, L.G., Sethi, S.A., Yule, D.L., Hanson, S.D., Turschak, B., Warner, D.M., Farha, S.A., O'Brien, T.P., McDonnell, K.N., Watkins, J.M., **DuFour, M.R.**, Barnard, A.R., Wells, S.E., Koproski, S.R., Dieter, P.M., Kocher, E., Roberts, J.J., Swain, J.D., and Esselman, P.C. March 2023 (poster). *Assessing fish avoidance to motorized acoustic survey vessels using quiet autonomous Saildrones in the Great Lakes.* ICES  Fisheries and Plankton Acoustics Symposium, Portland, ME.
 
 Slagle, Z., Hartman, T., and **DuFour, M.** December 2022. *Opening Lake Erie’s spring bass season: standardized assessments lead to increased opportunities for anglers.* ODNR Division of Wildlife/The Ohio State University Research Review, Columbus, OH.
 
